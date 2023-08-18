@@ -1,8 +1,9 @@
 <h1 align="left">Hello, I'm Gracella👋</h1>
 <p align="center"><img align="center" width="386" alt="pic" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> </p> </br>
-<h3 align="left">A passionate frontend developer from Indonesia</h3>
+<h3 align="left">About Me</h3>
 - I am a senior year student at SunYat-sen University </br>
 - I speak English, Chinese, Indonesian, Korean </br>
+- A passionate frontend developer from Indonesia </br>
 - In my spare time I like to sing, dance and do some exercises </br>
 - I'm passionate about web development and eager to learn and explore new areas in coding <a target="_blank" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" /> </a> </br>
 - I hope to work in a challenging environment that will turn me grow and develop alongside the organization </br>
