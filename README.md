@@ -2,7 +2,7 @@
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> </p> 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=cellaciela&label=Views&color=9072fd&style=plastic](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)" /> </p>
+<p align="center"> <img align="center" src="[https://komarev.com/ghpvc/?username=cellaciela&label=Views&color=9072fd&style=plastic](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)" /> </p>
 
 
 - 📫 How to reach me **cellaciela@yahoo.co.id**
